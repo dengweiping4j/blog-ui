@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 syntax: glob
 package-lock.json
+.idea/
+yarn.lock
