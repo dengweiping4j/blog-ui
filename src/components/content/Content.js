@@ -8,10 +8,6 @@ import HeadingBlock from "../public/HeadingBlock";
 class Content extends Component {
     state = {};
 
-    test = () => {
-        alert('测试');
-    }
-
     render() {
         const {title = '无标题'} = this.props;
         return (

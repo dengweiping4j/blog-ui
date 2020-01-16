@@ -1,7 +1,7 @@
 import React from 'react';
 import {connect} from 'dva';
 import MyMenu from "../../../components/menu/myMenu";
-import Header from "../../../components/header/Header";
+import Header from "../../../components/header/views/Header";
 import ArticleList from "../../../components/article/ArticleList";
 
 function IndexPage() {
