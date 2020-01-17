@@ -24,7 +24,7 @@ function IndexPage() {
                 marginTop: '50px',
                 backgroundColor: '#508B93'
             }}>
-                <a href={'https://blog.csdn.net/qq_27574367'} style={{color:'#000'}}>©️2020 版权所有｜weipingdeng@qq.com</a>
+                <a href={'https://blog.csdn.net/qq_27574367'} style={{color: '#000'}}>©️2020 版权所有｜weipingdeng@qq.com</a>
             </div>
         </div>
 
